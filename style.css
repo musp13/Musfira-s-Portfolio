@@ -1,0 +1,85 @@
+#icon
+{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#salutation
+{
+    font-size: 3em;/*calc(4.375rem + 1.5vw);*/
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 500px;
+    
+}
+#description
+{
+    font-family: monospace;
+    color: #5d5e5e;
+    text-shadow: 500px;
+}
+#about-card
+{
+    /*padding-left: 40px;*/
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /*background-color:;*/
+}
+#projects-card
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#contact-card
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.heading-style
+{
+    font-family:'Courier New', Courier, monospace;
+    color: #5d5e5e;
+}
+/*#projects-heading
+{
+    font-family:fantasy;
+    color: #5d5e5e;
+}*/
+body
+{
+   
+    /* background-image: 'https://www.freepik.com/vectors/subtle';*/
+   background-image: linear-gradient(#ebe8e8,white);
+   /*background-image: var(--bs-gradient);*/
+   
+}
+p
+{
+    text-align: justify;
+    /*font-family: monospace;*/
+    /*color: #5d5e5e;*/
+}
+#submit-btn-col
+{
+    
+    height:100px;
+    padding-top: 47px;
+    /*width:100px;*
+    
+    /*padding-left: 110px;*/
+}
+#dp-img
+{
+    width:30vh;
+}
+#dp-col
+{
+    padding-top: 30vh;
+    padding-left: 10vw;
+}
+.thumb-size
+{
+    width: 30px;
+    height: 30px;
+}
+.card-brdrs
+{
+    border-color: #b9b8b8;
+}
